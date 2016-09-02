@@ -10,8 +10,6 @@
 Option Strict On
 Option Explicit On
 
-'this is ajust another test
 
 Partial Public Class About
 End Class
-'we are about to test the branch
